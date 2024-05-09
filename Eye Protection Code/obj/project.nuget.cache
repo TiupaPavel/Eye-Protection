@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CV998xi9pm511UaJiYc4tGIiPuY/xWWq4+KT7qzFJoYWE9pmVdX3OOErgUaNv6xapG7vLkqIphqZ6jd+QazB9g==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Eye Protection Code\\Eye Protection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
